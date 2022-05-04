@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AboutMeApp</string>
+    <string name="title">About Me App</string>
+    <string name="name">Eugenio Canciello</string>
+    <string name="star_image_cont_desc">Star Image</string>
+    <string name="bio_mock">"Bla Bla Bla Bla Bla Bla Bla Bla Bla
+        \n Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
+        \n Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
+        \n Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
+        \nBla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
+        \nBla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
+        \nBla Bla Bla Bla Bla Bla Bla "
+    </string>
+
+    <string name="bio">
+        \n- 👋 Hi, I’m @eugenio-canciello-developer
+        \n- 👀 I’m work from 2014 in Native / Hybrid Mobile Development
+        \n- 🌱 I’m currently upgrade my skills in Android Native Development
+        \n- 🌱 I’m currently learning Cloud Computing Architecture and Java Spring for Microservices
+        \n- 💞️ I’m looking to collaborate with everyone
+        \n- 📫 How to reach me, send me an email at cancielloeugenio at gmail dot com
+ </string>
+</resources>
